@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Montblanc Ledger Entry",
+  "description": "A single signed earnings record in the Montblanc Capital ledger",
+  "type": "object",
+  "required": ["id", "wallet_id", "type", "amount_btc", "date", "source", "timestamp", "signature"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Unique entry identifier"
+    },
+    "wallet_id": {
+      "type": "string",
+      "pattern": "^mbc_[a-f0-9]{16}$",
+      "description": "Pseudonymous wallet identifier (no PII)"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["credit", "debit"],
+      "description": "Transaction type"
+    },
+    "amount_btc": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]{8}$",
+      "description": "Amount in BTC with 8 decimal precision"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Earnings date (YYYY-MM-DD)"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["daily_mining_earnings", "adjustment", "withdrawal"],
+      "description": "Origin of the transaction"
+    },
+    "ref": {
+      "type": "string",
+      "description": "Reference to source record (e.g. daily_mining_earnings:2026-02-12)"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of when entry was created"
+    },
+    "signature": {
+      "type": "string",
+      "description": "Ed25519 signature of the entry data (base64)"
+    }
+  },
+  "additionalProperties": false
+}
