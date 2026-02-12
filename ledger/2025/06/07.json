@@ -1,0 +1,79 @@
+[
+  {
+    "id": "d63adec8-b844-44e6-8310-a76ca2f40c24",
+    "wallet_id": "mbc_f4527e404334215d",
+    "type": "credit",
+    "amount_btc": "0.00055663",
+    "date": "2025-06-07",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2025-06-07",
+    "timestamp": "2026-02-12T18:01:39.750Z",
+    "signature": "omeJtWd8h4NeVHLMHvUxm46uVno6bUiQ1F01/En6segb85bb6Fhc4dB2uRAlJXbUcGo6NxQfQoZLF9nzCXqCCA=="
+  },
+  {
+    "id": "8bdfd10c-9e3f-4617-aa24-122cdeff5d12",
+    "wallet_id": "mbc_9b28d5660930cec5",
+    "type": "credit",
+    "amount_btc": "0.00018554",
+    "date": "2025-06-07",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2025-06-07",
+    "timestamp": "2026-02-12T18:01:39.751Z",
+    "signature": "xitFkXSV5bXZVrV1vwmJZp27AXmAljqhJDnpvZWgn3boJkSjNnFyPGMXi8sJ7ERlafNOsyCa3AfioCFu42x7Cw=="
+  },
+  {
+    "id": "bf549140-e3d5-4105-99b5-a70a16cf4bba",
+    "wallet_id": "mbc_aa821f4012a32c44",
+    "type": "credit",
+    "amount_btc": "0.00055663",
+    "date": "2025-06-07",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2025-06-07",
+    "timestamp": "2026-02-12T18:01:39.751Z",
+    "signature": "s5p8pEXAGcsFPgVd9KLOoqVtdd76rG7P5ZYtZNoObvrSINPdV7ekwgVAy2wsfhh9FHb6uSbdtNUqfNVbPTPECg=="
+  },
+  {
+    "id": "ca90d141-3035-4b0e-b4af-5bcf53e5813e",
+    "wallet_id": "mbc_8fde24113463b465",
+    "type": "credit",
+    "amount_btc": "0.00009277",
+    "date": "2025-06-07",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2025-06-07",
+    "timestamp": "2026-02-12T18:01:39.751Z",
+    "signature": "HfV/Wae67heEDdVusstY1FLq5c86o/oipYYPAwYpR+jxwvK4aBNwZ3gLj+NUKD//rMHN2jp7R2nw7BwJ29mADg=="
+  },
+  {
+    "id": "66323a14-1374-4424-83ff-325221a2c483",
+    "wallet_id": "mbc_845c0b9c056fdcdb",
+    "type": "credit",
+    "amount_btc": "0.00009277",
+    "date": "2025-06-07",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2025-06-07",
+    "timestamp": "2026-02-12T18:01:39.752Z",
+    "signature": "SWROGoOTd/tuoWUnvyyvX8950doprKEAX/1LoFfYKyv/urJzOIkqLxSkdoQVeelWm/3q5dNSF/M4o27E7d8zDA=="
+  },
+  {
+    "id": "d9916e60-be9a-4555-bd6d-9004040d0ab2",
+    "wallet_id": "mbc_004ea49ed2970ec4",
+    "type": "credit",
+    "amount_btc": "0.00009277",
+    "date": "2025-06-07",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2025-06-07",
+    "timestamp": "2026-02-12T18:01:39.752Z",
+    "signature": "P/WTROGg4qfvZxsgu2mHcAWzhs108rOo/VALsA79Ygj49PionTfykyx5p8FlVaP3Xd/ztsBx5VHP4kkceaIEDA=="
+  },
+  {
+    "id": "3e17126f-79c5-4ac9-9581-f28c1169232a",
+    "wallet_id": "mbc_c7ed4396f5eebf5d",
+    "type": "credit",
+    "amount_btc": "0.00722694",
+    "date": "2025-06-07",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2025-06-07",
+    "timestamp": "2026-02-12T18:01:39.753Z",
+    "signature": "yfJZ+1sZg5HqxksU/k6+EX6rekpB1k6f8r9dmHO12ZJtArc84If8hbTzHFDomsnAwXBo1E6UG2EiB9NBEn7mDA=="
+  }
+]
