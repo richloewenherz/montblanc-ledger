@@ -1,0 +1,13 @@
+[
+  {
+    "id": "c6ade27e-dccc-4981-9679-9a79e9d138e6",
+    "wallet_id": "mbc_f4527e404334215d",
+    "type": "credit",
+    "amount_btc": "0.00054321",
+    "date": "2026-02-12",
+    "source": "daily_mining_earnings",
+    "ref": "daily_mining_earnings:2026-02-12",
+    "timestamp": "2026-02-12T17:57:45.237Z",
+    "signature": "5hEBNrXslcZXyvaMOTR8DdKp+CY5M1OcFTI712MyDFGJxkomvunl0dXRaSRxw3pBjIHsxbLSR0ZmH2QKn0ptCA=="
+  }
+]
