@@ -3,15 +3,13 @@
     "mbc_004ea49ed2970ec4": "0.02809714",
     "mbc_5e7ea785db0aa729": "0.00008964",
     "mbc_7293ddda0ed7dd93": "0.00098618",
-    "mbc_845c0b9c056fdcdb": "0.02839316",
-    "mbc_8fde24113463b465": "0.02839316",
-    "mbc_9b28d5660930cec5": "0.05678631",
-    "mbc_aa821f4012a32c44": "0.17035883",
-    "mbc_f4527e404334215d": "0.17035883"
+    "mbc_845c0b9c056fdcdb": "0.02849210",
+    "mbc_8fde24113463b465": "0.02849210",
+    "mbc_9b28d5660930cec5": "0.05698419",
+    "mbc_aa821f4012a32c44": "0.17095246",
+    "mbc_f4527e404334215d": "0.17095246"
   },
-  "computed_at": "2026-02-16T06:46:52.652Z",
-  "hash": "1a790cad9a1bfe47ce68986a363396bb45641b2aed12a512a44245fed6dc6ef8",
-  "signature": "h6tL5SnTflw9V2PS5G+H77mdSp9U3X6JsIL9fLF9gvo1TvNPCBjvAW0ZR2ZaFneOzG+sy8auhlJbqoGin+Z6CA==",
-  "last_date": "2026-02-15",
-  "chain_tip_hash": "d84158e96c59b97e2630f3b2a5e3b5adb379683a35e44938ab6e6f783cb4b3c5"
+  "computed_at": "2026-02-17T02:00:02.093Z",
+  "hash": "111697a65664ff8deaccf06e52250e3446325b4ccf403371701c74193a26879d",
+  "signature": "aBvAiCmLhtiUUX/eEDzRjtWQ+MoXlmV2Go9PF1b/kbZspA4/crUVaOo12O9v9nbnF8+1PRwUKhCNEPNBgPYDAQ=="
 }
