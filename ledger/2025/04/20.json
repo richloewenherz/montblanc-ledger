@@ -1,31 +1,31 @@
 {
   "date": "2025-04-20",
-  "previous_hash": "815731a37983f39741171660bc612d6c90de80d7d6d97cbe24d475bf63cf8f47",
+  "previous_hash": "c7c70cd85f5e18c3af86ec260af51ab66b6b53fc1ceb5bfa801d7001bd585d76",
   "entries_count": 2,
-  "merkle_root": "ac8a12ba894611a5d02903e6d876ae8724b2455d5b84d890ab0c7f4dac0c5640",
+  "merkle_root": "1bb306e0a2067bb0580af7aef43df614641ec89a965569154d2ae5619b63836b",
   "entries": [
     {
-      "id": "2ef3112a-ded6-4b05-8880-89106a4c8526",
-      "wallet_id": "mbc_f4527e404334215d",
-      "type": "credit",
-      "amount_btc": "0.00000001",
-      "date": "2025-04-20",
-      "source": "daily_mining_earnings",
-      "ref": "daily_mining_earnings:2025-04-20",
-      "timestamp": "2026-02-12T18:01:39.626Z",
-      "signature": "p7FOgX94FZvzahZ0H2xnVnBNBZgxIGLRTR4rBGf0dRmwBmyHUbvfbYdU2qxMpO471nCOoccx5YCCQMd18XCoDQ=="
-    },
-    {
-      "id": "47e1c23c-9b35-41de-978d-a125a6b2dbe0",
+      "id": "17fd707c-e878-4c19-a6c0-4d5bedaf58ba",
       "wallet_id": "mbc_aa821f4012a32c44",
       "type": "credit",
       "amount_btc": "0.00000001",
       "date": "2025-04-20",
       "source": "daily_mining_earnings",
       "ref": "daily_mining_earnings:2025-04-20",
-      "timestamp": "2026-02-12T18:01:39.626Z",
-      "signature": "ZQIKBSx6B/aWAG+xUYfG9Ddu9FYf9tIm+WI3gooaBCkSyNJfs7hONzRMVVgRqudNoDri+6z/+hwL50/lUR+bAw=="
+      "timestamp": "2026-02-18T11:58:59.772Z",
+      "signature": "iN6BKUf+1ID21Z0HmkFJ4sX9eLv4a7EYq+oSaH1RjbmxEI4lZRub2hpjCxNXmqA+n5uf+Sjg3nyfEJR4pZ3+Ag=="
+    },
+    {
+      "id": "fbdea664-f429-4cbc-994f-04caa6a34adc",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00000001",
+      "date": "2025-04-20",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2025-04-20",
+      "timestamp": "2026-02-18T11:58:59.772Z",
+      "signature": "EJmxkInm3iZcmdbyAYa8w8ItUnE+SgPRD0LAjlSPcyqOR8Bex+7Uw0HshRtv4vRty8eoKiFrWzlPT/fz/AuUBg=="
     }
   ],
-  "day_hash": "489ed2ad29b6ceee5dd6e624a2b7af87875daebba278be3a6cefb4c910cc5b54"
+  "day_hash": "703479a001182a5d60606ba56468c4e8aa2962d8c09ae030cadf85a6f91764af"
 }

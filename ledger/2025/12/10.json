@@ -1,31 +1,31 @@
 {
   "date": "2025-12-10",
-  "previous_hash": "2c93493558fd668943112bc428d83f593ffee96960971caeeb29a1f5818d964f",
+  "previous_hash": "0d360fb48371692a9d3331e9f8a4e77d63f16ab5d76c48fe9d8e607d633d9bb7",
   "entries_count": 2,
-  "merkle_root": "d87b0cf2927daada36550a846daf3fdc6fab723eb4ce9255a09e71bf317389d2",
+  "merkle_root": "e9ce16cba58f2d7c0a84a270b5cad68da7cf177e235490347cbbb6602482deae",
   "entries": [
     {
-      "id": "15125a17-caa5-47e8-8345-651d6e15098b",
-      "wallet_id": "mbc_f4527e404334215d",
-      "type": "credit",
-      "amount_btc": "0.00000001",
-      "date": "2025-12-10",
-      "source": "daily_mining_earnings",
-      "ref": "daily_mining_earnings:2025-12-10",
-      "timestamp": "2026-02-12T18:01:40.242Z",
-      "signature": "kZjteZmVR1alcYd50EK4nAI6NykzReh4xI16Y/uMQPanhyHRZARRYWaHCNmPefNe0q5sYd612pYGrfZMEI+sCw=="
-    },
-    {
-      "id": "d15d7314-d613-428f-bbc7-99f2976d674f",
+      "id": "724e53f6-8789-4a3b-886f-47afa107b1ad",
       "wallet_id": "mbc_aa821f4012a32c44",
       "type": "credit",
       "amount_btc": "0.00000001",
       "date": "2025-12-10",
       "source": "daily_mining_earnings",
       "ref": "daily_mining_earnings:2025-12-10",
-      "timestamp": "2026-02-12T18:01:40.242Z",
-      "signature": "DAjjAhaI+9BR63rx+el9gdxQxehCkcdL3lZMuDtDqxvQW43cN4KyBSrbNc0F9mgNALBM0VBKojTcgJOwgCDUAw=="
+      "timestamp": "2026-02-18T11:58:59.772Z",
+      "signature": "kgXE2kG3lgLLS3tjlk1sT4H+xlGnx71aaP6j8GmYAwO/19LY6nJ/BlGObboxeWNAcZlGhLcN7X3inQYQs6UNDQ=="
+    },
+    {
+      "id": "5077fddc-b825-478f-ac78-a7e814b01c09",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00000001",
+      "date": "2025-12-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2025-12-10",
+      "timestamp": "2026-02-18T11:58:59.772Z",
+      "signature": "6aJUpYpUInkkwj1OOnbhOrvVbbdrTOZGS98zHUpTgORGjZn1OQnnzcEOdFKW8dLPbTiiprOnNJPx5LRKL9xgBg=="
     }
   ],
-  "day_hash": "230c4bcfa3aeed9cd66e1a4a8f133393bb4b6916ac762bdf5fb61f95d5553934"
+  "day_hash": "932084b524bfa0fe49af82ac5992c2234b6acb24609a495cb586432affafb6f0"
 }
