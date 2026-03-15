@@ -1,0 +1,64 @@
+{
+  "date": "2026-03-14",
+  "previous_hash": "ac77ce5dd4c5023091ff5f31647757ee079e26913cc9643ac8c05799ed1deaf9",
+  "entries_count": 5,
+  "merkle_root": "a4ef4ef674daceba65f7d71a186b76a3466f8c5489c6e2ce7a01ed4d3b1f7366",
+  "entries": [
+    {
+      "id": "c7bcc32d-3620-4062-8beb-605ef6792910",
+      "wallet_id": "mbc_aa821f4012a32c44",
+      "type": "credit",
+      "amount_btc": "0.00052006",
+      "date": "2026-03-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-03-14",
+      "timestamp": "2026-03-15T02:00:01.732Z",
+      "signature": "RlRGZTEGHbn744/wxIjP+9SgsdwvZWlVSDYppbCmZ/MuvOIzr7g8+SCvKCy+g/Zo5dRTCRlVYFVReFxjPTaACw=="
+    },
+    {
+      "id": "6281eae0-eecc-4704-8bf1-c6ac239f51d8",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00008668",
+      "date": "2026-03-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-03-14",
+      "timestamp": "2026-03-15T02:00:01.738Z",
+      "signature": "3h9JmxAQhPQ+O3ud6Z0HQJYyc/t9W7EmdavWUvnLrjavlYmxdH9D2gYbSD1Y5gmVH/A4KCxKcDbSCtEcTfiHAw=="
+    },
+    {
+      "id": "7667ec5a-c780-4d69-b8ba-d16631dc3354",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00008668",
+      "date": "2026-03-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-03-14",
+      "timestamp": "2026-03-15T02:00:01.766Z",
+      "signature": "byzezcZW32YMWSHwYNd1V22bRhM5O5CZEoRWC3twNap+c0JrXuOOg2zMmSIQm6IwB+y7HCYruSQeObFn58u0Ag=="
+    },
+    {
+      "id": "23b9916a-897b-4a4b-9a06-f3b38ee7abdb",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00052006",
+      "date": "2026-03-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-03-14",
+      "timestamp": "2026-03-15T02:00:01.778Z",
+      "signature": "ZyjJShcOQxGFSHfV5/2Wc5ei3JqftrTgPzAlTBWoCgi/Jwm5r9ptA3T62EehH5yBqfHT93qZJOEFIJaiKEEqDQ=="
+    },
+    {
+      "id": "3e15d025-01a4-4c31-93df-63385d42a68b",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00017335",
+      "date": "2026-03-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-03-14",
+      "timestamp": "2026-03-15T02:00:01.790Z",
+      "signature": "fBEyKt4qQotXBDNcNg8+2KE6Kh4A5966E0G9smwg0Qno4KFKM6hAy0lXQP5zfiU0HZt4UcZB5knoErjW6eVhBQ=="
+    }
+  ],
+  "day_hash": "a025ce226158ed843dbb0b3dc8f0b42af97d1b73d529f7d37a883ce6db3a0911"
+}
