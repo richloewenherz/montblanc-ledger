@@ -1,12 +1,12 @@
 {
   "balances": {
-    "mbc_845c0b9c056fdcdb": "0.04542825",
-    "mbc_8fde24113463b465": "0.04542825",
-    "mbc_9b28d5660930cec5": "0.09085604",
-    "mbc_aa821f4012a32c44": "0.27256825",
-    "mbc_f4527e404334215d": "0.27256825"
+    "mbc_845c0b9c056fdcdb": "0.04551637",
+    "mbc_8fde24113463b465": "0.04551637",
+    "mbc_9b28d5660930cec5": "0.09103229",
+    "mbc_aa821f4012a32c44": "0.27309699",
+    "mbc_f4527e404334215d": "0.27309699"
   },
-  "computed_at": "2026-06-09T01:00:04.096Z",
-  "hash": "c563ca8067f8ee5ab410e0e5466aa459ed823f42fe75b4d82d2ff1c78c5bb794",
-  "signature": "C3YdNcvMBU/NSuvWltj5bjgdy7aQeX2BAgaYZC8jTnVwJvztg//HRSrPUkZgT4pLOALC+8gX7MpsqzS2lBemCg=="
+  "computed_at": "2026-06-09T01:00:04.189Z",
+  "hash": "85253790c47535b6c273224228f2bc66ec5d3d18596f51575eaef97305e67dcf",
+  "signature": "1CuRbCgQR6Ph0j7RuymHCRF/M6YdYpDVtZ9tjqwTOsCb2dINKpujgGYD+iy20IVpL52aKCk6dJXS9aZFlnMqCw=="
 }
