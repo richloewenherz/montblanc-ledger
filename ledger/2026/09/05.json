@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-05",
+  "previous_hash": "fb61c8e9e5ae4b4d796cb2658c580ee6b5b003753bc1862339a7fb9dd506c901",
+  "entries_count": 4,
+  "merkle_root": "056f475d0f764b55b85f74bd6af494967e088aeb5d67ff6a137d86dbc578be9a",
+  "entries": [
+    {
+      "id": "0f897517-570c-4ea8-9102-13166ebd208f",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00055230",
+      "date": "2026-09-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-05",
+      "timestamp": "2026-09-06T01:00:03.796Z",
+      "signature": "tdnfg9lndzdISIBvBDZqb73jH4KFN9fo6hbbusVg6YF6Rwkoti+D94OE0VUpn6jY4PvZ0uWtLLZR2OXgCK4RBQ=="
+    },
+    {
+      "id": "2d5ad702-fcc3-4b18-a2ca-ee225bb53ddf",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00009205",
+      "date": "2026-09-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-05",
+      "timestamp": "2026-09-06T01:00:03.822Z",
+      "signature": "53v+uuTh/1PcgRcFHTIIrOSFI85TdX+ns0vWoFGbebM4XheeV4iLKaZUJ4jIHeQ/ME9cXmocRVMy/3mEnMzIAQ=="
+    },
+    {
+      "id": "0eb852fd-d96c-4431-9790-66f4cae8f0fc",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00018410",
+      "date": "2026-09-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-05",
+      "timestamp": "2026-09-06T01:00:03.844Z",
+      "signature": "/COoUsMM7WdCCG2PCJkhAUXIjEEdE8it45exV7/C0JCKMu/tmE36DvWvHPhA0K70qa2D0c6sb6FAnVf4vmuHAQ=="
+    },
+    {
+      "id": "7998bbc3-9842-47c1-996e-c884260b5361",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00009205",
+      "date": "2026-09-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-05",
+      "timestamp": "2026-09-06T01:00:03.864Z",
+      "signature": "azqgA7eAsG8soCuwQiz8AiG2d10HCH5KpkTaq4qID8qH7G0tltvrqhE0MvFEWd+YcNikdQN6T6FaX+cjKJJRAg=="
+    }
+  ],
+  "day_hash": "d1d0a261ef429e47c030dc4e632989f4a2062e82ef3863508c4da0ce46cf0c22"
+}
