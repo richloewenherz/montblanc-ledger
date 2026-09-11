@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-10",
+  "previous_hash": "76df0f1f89fe6f14a0ed9c4de1e68ce2b220fe5e8ec0d767ef711f36e1f17733",
+  "entries_count": 4,
+  "merkle_root": "aeb1b1920c5c2f33f0ac44150035b493cf79d64ea66ccb4ec0ea2c22aa35172d",
+  "entries": [
+    {
+      "id": "dc72c9c5-ee41-4a1c-8416-dab2bc99acee",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00037980",
+      "date": "2026-09-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-10",
+      "timestamp": "2026-09-11T01:00:06.112Z",
+      "signature": "XoKwveOlXOKfgtAGp5rpaUcd3NMEI8B/2jXfRE3zc80Y2OGzyvObqE7nnoqPAJt5fHagqS5a1qAe1EqxsH0tDQ=="
+    },
+    {
+      "id": "78f3e369-c803-47e4-b27f-46aeda1d7ffe",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006330",
+      "date": "2026-09-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-10",
+      "timestamp": "2026-09-11T01:00:06.138Z",
+      "signature": "JBt11Y0JRWNv5C9TMVY+8UpC58obRjsTRfgDs8wiA+rXuMFDu6R+0YWwWX6Cvnr22AFjfdygA00JD23BWW27Cw=="
+    },
+    {
+      "id": "771d069d-b643-4a09-8c2b-b27c404fda99",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00012660",
+      "date": "2026-09-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-10",
+      "timestamp": "2026-09-11T01:00:06.159Z",
+      "signature": "xawKB3a/EhdEAge99Frs6bFKZhMSU6O35kme6w568FT61WwVN3ZxPfYgMZ0PAdxCcHjkHLlHfqkmrXDbFKQIDQ=="
+    },
+    {
+      "id": "8160146c-be4d-4b6e-9594-a5bd7d28ec10",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006330",
+      "date": "2026-09-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-10",
+      "timestamp": "2026-09-11T01:00:06.178Z",
+      "signature": "aBWRrRXm/ZZmAdGGH28BQetY1dlnapsYj8MeaoGQopv3B9pLXyEHPHptSXHz/MjasveZxiqRuWxkXeJ6DnRoBQ=="
+    }
+  ],
+  "day_hash": "c50c861789e26251bd76c73280db3d1e6435ede55357c418f033bb77c26d3091"
+}
