@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-12",
+  "previous_hash": "4bc88f53a24311b6f1a73e0fd4c304a5ba7d402f83820371fbc23210b588700e",
+  "entries_count": 4,
+  "merkle_root": "434ed3a1771dd19a0ed8bfaf93c6a24f5fbf3db61df9f5398187ca2b79f6f5ea",
+  "entries": [
+    {
+      "id": "72fd37ab-6e9c-4c93-9b9d-7fd1d68755bb",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00054990",
+      "date": "2026-09-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-12",
+      "timestamp": "2026-09-13T01:00:05.945Z",
+      "signature": "uYqHU19Qv/Zuy/7HIXKKgWrvExZMA1uCjvG3XUGaVab2zZBvsvCinuujbA2wuMbmplmj/Zldrq9+ajrAuc03Bw=="
+    },
+    {
+      "id": "11e5fe9d-4045-4789-9992-375187afd45c",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00018330",
+      "date": "2026-09-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-12",
+      "timestamp": "2026-09-13T01:00:05.968Z",
+      "signature": "SX/x56LjIgKqG52KejIfa4ANkjX10Fr7e1ijZ4EghQH9pQd3fKSYWpOH2V0Y89rflz3dnrFSf67qjPjy5b0jAw=="
+    },
+    {
+      "id": "8da2cb61-0b06-4f4d-aa3d-9aba7202fb9a",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00009165",
+      "date": "2026-09-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-12",
+      "timestamp": "2026-09-13T01:00:05.989Z",
+      "signature": "upWeO/gZDFSKcvxcg25RZ/FrgvR4Mxx6i9IU9maV5pEpS6LUd3HcWC6Yr9dFQZNabaT1WkBiesLc0wR1YatPAw=="
+    },
+    {
+      "id": "2bcbfbf0-2510-4a1d-b5c3-559992ba2d39",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00009165",
+      "date": "2026-09-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-12",
+      "timestamp": "2026-09-13T01:00:06.008Z",
+      "signature": "njg0m8K8YOO6hw66ErvzOn8mhGOuParGuT0A/6paP3X12HiO30PG5o5ZtF8kXsFSJ6HJD9DsE5J9YMsK8F74Cw=="
+    }
+  ],
+  "day_hash": "b36ce411004f7e84a60e22b2ed05996c7606103d1bea25353bfc844216d2d6b4"
+}
