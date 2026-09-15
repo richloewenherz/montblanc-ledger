@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-14",
+  "previous_hash": "fd00a319d1b17e7d09d5d39ebc6fe26ee9e979c78f6fd75ad05b94eaf1a5853f",
+  "entries_count": 4,
+  "merkle_root": "0dd48e471a099a1e1e361b113b1055905351681902fc77777ef7c4f903368f8a",
+  "entries": [
+    {
+      "id": "6196078c-c42a-4b79-9d0f-f85cab3c5775",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006859",
+      "date": "2026-09-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-14",
+      "timestamp": "2026-09-15T01:00:04.398Z",
+      "signature": "PY0ILAIvKLW0f2Glx2VNfVpBKD3tPDKWXIfwLoB3ryCXvsMmd0egcFvsAqCAwOSUq/2QRzz1iBVRfH5ZyuaBCg=="
+    },
+    {
+      "id": "e8a675ec-2545-4105-b654-16330be2a04e",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00013718",
+      "date": "2026-09-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-14",
+      "timestamp": "2026-09-15T01:00:04.431Z",
+      "signature": "HmdqxYM+7xulKoMT8AU3PTDiBKjkQTmkPHdpvBbNYy68vTWcboDZqn7y16t739i9ut7F4lYU+S/rMMWh/ynyDQ=="
+    },
+    {
+      "id": "45b00d7d-cba7-4305-913f-54b97ebb1de7",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00041155",
+      "date": "2026-09-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-14",
+      "timestamp": "2026-09-15T01:00:04.449Z",
+      "signature": "J+OaEVOo9ki+9NU/rHBmJa50wAZSgmI02cdL+T+WNWzYeI48ShO6SD/0gvVHWQdi/gezyHJctb5NCmq8atDVDg=="
+    },
+    {
+      "id": "5c185b41-5f47-40c9-af75-ed2280f7649a",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006859",
+      "date": "2026-09-14",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-14",
+      "timestamp": "2026-09-15T01:00:04.468Z",
+      "signature": "U0gpYbqY4hUrpvr2sq0Dkt747KH1fLs0zwF3rWkF6pSp33+/9qJ/r+poJayst0mLAzbBe2IqlMJQAgHiSoMiCw=="
+    }
+  ],
+  "day_hash": "7b5babe5e734a341dc82572060bda85959a8f76e2f4c470e07e9927ee90a9f0d"
+}
