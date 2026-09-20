@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-19",
+  "previous_hash": "9ab3bbeab3d3f25a2fcc8188b702b4ff6fa084aadb47ec86a80cc1d13291404e",
+  "entries_count": 4,
+  "merkle_root": "49d5eba2843d5482409bcf3a242a13a24ef739fb9737a8ad9205530a337af5cc",
+  "entries": [
+    {
+      "id": "6f32fb46-514f-481b-a63f-9da82fdaa457",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00054371",
+      "date": "2026-09-19",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-19",
+      "timestamp": "2026-09-20T01:00:04.151Z",
+      "signature": "8mmZbdlssqkv7cBOEVloWjg7+536l8wAThSr9kfms6CLphXzsfG271RenCy+Lk+yuasxfYgUnkOlwXxKhZ4OBA=="
+    },
+    {
+      "id": "fd215cf2-a22a-487a-ae93-d187a8d33cfe",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00009062",
+      "date": "2026-09-19",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-19",
+      "timestamp": "2026-09-20T01:00:04.174Z",
+      "signature": "CyzOghjAtOOge41V1CNY2CMwCBe6JZGVTE3PRVsADPZu7z+hCXJC2c24e+JFzZMilCTO/52FNKWHWUgFGMbyCA=="
+    },
+    {
+      "id": "6881f948-9333-4b78-830f-76ae5e7113bf",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00018124",
+      "date": "2026-09-19",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-19",
+      "timestamp": "2026-09-20T01:00:04.194Z",
+      "signature": "wY5GXiS+XTR0X2XQwrB5HXzYO46U/s6boSBHMEQfzjMgW44jPPA+tQH6MkJDQbP19jI1Zc6ncePaZGXcVOoiBg=="
+    },
+    {
+      "id": "37025995-82a0-4a4a-8071-4baddf73542b",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00009062",
+      "date": "2026-09-19",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-19",
+      "timestamp": "2026-09-20T01:00:04.213Z",
+      "signature": "q6nskauOsLvg6LC93tpMk1xRzAlE5cZNKGC1iwSY5l35AnlaBS4o3VubhXScgmeNowEVjTGUJsOr2abadAdPAQ=="
+    }
+  ],
+  "day_hash": "d3c354c5f8ef90ba4336fce25041fd12ed285201da5ca5ca270c780c3b5bb2f9"
+}
