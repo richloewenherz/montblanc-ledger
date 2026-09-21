@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-20",
+  "previous_hash": "d3c354c5f8ef90ba4336fce25041fd12ed285201da5ca5ca270c780c3b5bb2f9",
+  "entries_count": 4,
+  "merkle_root": "62dcb9a5ccd25f9c62e9e60aac9d6763c85e77811755809d7cab1689896e88fb",
+  "entries": [
+    {
+      "id": "046ca5d8-7417-4eea-949d-559a36192e8a",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00056317",
+      "date": "2026-09-20",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-20",
+      "timestamp": "2026-09-21T01:00:04.183Z",
+      "signature": "avzNtljV+zSnOcnOmnaEZsxaQMWvvaiySRncmFnTjYJZQ3/swnET4KHT9qeuzh1iH1cJOFNSoh1/tVhltmC3BQ=="
+    },
+    {
+      "id": "b069064d-95fd-436f-b9ab-97c6494b851a",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00009386",
+      "date": "2026-09-20",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-20",
+      "timestamp": "2026-09-21T01:00:04.213Z",
+      "signature": "363gSLBK8l/rqmGigm6uku+4LPjFx01v/6+M950dne1qC1rYis+fZnDaHgSyWRMQTK0PFj58iq89TOeuYG1pBg=="
+    },
+    {
+      "id": "dbd15836-b83e-4e89-bbbf-2b041c8b899b",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00018772",
+      "date": "2026-09-20",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-20",
+      "timestamp": "2026-09-21T01:00:04.237Z",
+      "signature": "5M9TqjKuWFU6Lq+xGnRFkqKqSbevwVhgED9gFg3oLsFcKPwfJjcGICo6wrmw6qN0eSaU0Ik6H7cMmy7JTqGsBQ=="
+    },
+    {
+      "id": "8d025d04-f21a-4b5e-b3c2-f3d9ab6385b6",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00009386",
+      "date": "2026-09-20",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-20",
+      "timestamp": "2026-09-21T01:00:04.261Z",
+      "signature": "C4xyJmZ8YSJNBWHaxEoapilqvInzNmmjUkSZAqfSgcr4jvd9FOpeFSZZm/Plnt/uT931dNLbCjluCEqmanBUCA=="
+    }
+  ],
+  "day_hash": "51ae1ef3864e6a113009323d816fd48565230880239a45f55481682c9d6927b4"
+}
