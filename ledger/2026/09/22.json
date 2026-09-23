@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-22",
+  "previous_hash": "e1d1b2a704a0af8cc40e2d136f52dfac9974f56d90aadb17a6a6a13c8622fe45",
+  "entries_count": 4,
+  "merkle_root": "9b3f496e57d4851a4b9ff5054b95d37b5fb783331351819ead86f48391909b1d",
+  "entries": [
+    {
+      "id": "b4b55340-691b-4918-b6dc-e904a26d1f62",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00035987",
+      "date": "2026-09-22",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-22",
+      "timestamp": "2026-09-23T01:00:06.058Z",
+      "signature": "SVPUl4RKqV4q5ul2D0pK7yIJDNB+zAx5zQta9vLZfzXlJjvkmQb97ydtx+Df2+5hISR9tbllcxV36D2RzkHMAQ=="
+    },
+    {
+      "id": "467131e3-ba0f-4389-943b-65b4c5fb389a",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00005998",
+      "date": "2026-09-22",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-22",
+      "timestamp": "2026-09-23T01:00:06.081Z",
+      "signature": "aKwqSNeLJV3ZWDgzIuW3WfjM+x1r/juXUhnsY+TYhQ/ua+dz8ZUUoDWGp7y+eUT65DZGHr1m4MMTZvNkJcKkAA=="
+    },
+    {
+      "id": "3ec0ec32-37ba-4590-8ba7-427d5373b381",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00005998",
+      "date": "2026-09-22",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-22",
+      "timestamp": "2026-09-23T01:00:06.102Z",
+      "signature": "CapNkdNQoZUP7yz6i+iDE8o4HAlypQnKLhMMpypc54sFhh+DmAzhm41viaZ3rPZEX2xQyy9hBaHwgeLoS0CWDw=="
+    },
+    {
+      "id": "4e2252b5-d6c3-45ef-bfff-77a1421ab713",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00011996",
+      "date": "2026-09-22",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-22",
+      "timestamp": "2026-09-23T01:00:06.121Z",
+      "signature": "W7fESu2Nt8F0eBJraHbkM4C4pVhy3nI4Z70EnAKw6A5DnhambEx2JTmaZVXNNhQ5s57lC2zqdCMOXXQaHo74CQ=="
+    }
+  ],
+  "day_hash": "b688892da97f93a8dde6cc3a4aa0b45eccb428b24de2865155924293a0dc888d"
+}
