@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-26",
+  "previous_hash": "40f6f889a081e4199f69d5fb76cd5fd45933d42cf15b15775a9e1e29b1cc43da",
+  "entries_count": 4,
+  "merkle_root": "c6651c8e180058497d1f93844608428908794aeceac46fcda782ed6c1eac4583",
+  "entries": [
+    {
+      "id": "8f208814-c682-4f95-a872-b3b170362574",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00046700",
+      "date": "2026-09-26",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-26",
+      "timestamp": "2026-09-27T01:00:03.961Z",
+      "signature": "Bx1aklw3mLMZbCC+Bbs9tO+o31Ma4sS57x+6B2UBc+FQ1lwljHUvS9azvCwJand8gSspAa+Xx5Qrw+DNC7LfCw=="
+    },
+    {
+      "id": "f29e9f3d-da2f-4630-a5e0-ad3d4a679dca",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00007783",
+      "date": "2026-09-26",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-26",
+      "timestamp": "2026-09-27T01:00:03.987Z",
+      "signature": "EGQY0F2kn+b4wNGDsXTDBAMdr9LLdqsCzc5EdU8VshY5DoUckbXxrvfPBaQV2UcHt2yZLMrGwvvGR/SIvEQtDg=="
+    },
+    {
+      "id": "36f11cf5-a73a-4f00-8e94-1df761494217",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00007783",
+      "date": "2026-09-26",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-26",
+      "timestamp": "2026-09-27T01:00:04.006Z",
+      "signature": "QbyxYqKvkbzl6rP6cqchsVL2Bd+jXy8Zi3fTZsnzDGxTBhsQi9eZauulJALRHUGuo4Aurom6FcawA+KtBLgPBg=="
+    },
+    {
+      "id": "8635aa7d-eb01-4522-a58e-f7ffbb21f56e",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00015567",
+      "date": "2026-09-26",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-26",
+      "timestamp": "2026-09-27T01:00:04.025Z",
+      "signature": "ge759nn5zh29AmcNYObl/PtmxLRtJxExRhBzfMzLjfDFPyUBXjwacENuYr4sZto96a6dk93bKL4wUgTBdDy+Cg=="
+    }
+  ],
+  "day_hash": "ff6deaa1fc85dd4caa4e6eef355a98ca1239bce24c1f7541706fc279ff2fafb9"
+}
