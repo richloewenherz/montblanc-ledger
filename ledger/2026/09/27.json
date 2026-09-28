@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-27",
+  "previous_hash": "ff6deaa1fc85dd4caa4e6eef355a98ca1239bce24c1f7541706fc279ff2fafb9",
+  "entries_count": 4,
+  "merkle_root": "75446b522b3a45aec26886f5674b9763460656b66d3b64b779da3252f35f6eac",
+  "entries": [
+    {
+      "id": "f1d556ae-b085-4b27-ba6f-76f72245cc09",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00049787",
+      "date": "2026-09-27",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-27",
+      "timestamp": "2026-09-28T01:00:05.528Z",
+      "signature": "+F3abP+61U3bdBfyn5zUmcKD/JZ0dSZaGBzJxNw1MNrpbaqXzncoxdh/glaLCgpn8Ix0Yc4Iao8sPXxKFFAeBw=="
+    },
+    {
+      "id": "ef658d56-8e45-43c4-9127-ca5a932c54b3",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00008298",
+      "date": "2026-09-27",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-27",
+      "timestamp": "2026-09-28T01:00:05.553Z",
+      "signature": "nrkT/b6yPIzQOn5BXFVV0Blh4pMuI2WRvUc9nAEInq/Dr6P1nTGa1WLUGx5Sni9bQkjUeSt96hHNoAX1ieqkCQ=="
+    },
+    {
+      "id": "fb9657a1-3e4a-459d-a75b-609c70ac9f35",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00008298",
+      "date": "2026-09-27",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-27",
+      "timestamp": "2026-09-28T01:00:05.574Z",
+      "signature": "+5GURA49oPbDKlkTg/TFKHIEKevHV7/LtBLfzOBWipjajDQ08fxpAMhXXlK0c48zo0ER7XYiMnDCR8Ne3eEdCA=="
+    },
+    {
+      "id": "cc94a233-55b7-4718-a28d-df119719bf45",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00016596",
+      "date": "2026-09-27",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-27",
+      "timestamp": "2026-09-28T01:00:05.596Z",
+      "signature": "R0aOaxPqiBBVSGF0BkbsJ2i6xcLsjDskRfTMoU26bOIDpPylR3SYadBRJGKx24cD7s5Z7tZUPP05vsf+bhaWAw=="
+    }
+  ],
+  "day_hash": "a772e072e7b5adfe7085722af1e7ae5d1dee9a4b7e4d809406fb66504636bd19"
+}
