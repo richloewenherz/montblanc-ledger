@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-29",
+  "previous_hash": "4abbc7708cdbc272462b2fe68f7b3c5967aa1c657caa53b585c62b293114298a",
+  "entries_count": 4,
+  "merkle_root": "291a79afe869395020e9abf2c7ea615e4b7add8c00bd2b99cbecce7fc21f2250",
+  "entries": [
+    {
+      "id": "a990ef94-48ea-4ae2-a478-ac75185e0026",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00036043",
+      "date": "2026-09-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-29",
+      "timestamp": "2026-09-30T01:00:03.868Z",
+      "signature": "hagvnR72/9mZhaRc/JO5HM0oWlY4IBH6I23Af2/Q1CguxlynrQD9b7s5UVImnqGCDFnk44tuQPSNTAp0jaCFDA=="
+    },
+    {
+      "id": "e520cca0-52ae-4d88-9db4-ba243cc8bc0f",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006007",
+      "date": "2026-09-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-29",
+      "timestamp": "2026-09-30T01:00:03.896Z",
+      "signature": "N1wWXoNTKht4jUrePT9N66W3MrsA3cKNCdu1S10HmAviacu2BSBl4KalawofWQYVC3GrSsRwkq699fulBP/rDw=="
+    },
+    {
+      "id": "0cd1ad4d-9fe9-4893-9125-367ad0b53d73",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00012014",
+      "date": "2026-09-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-29",
+      "timestamp": "2026-09-30T01:00:03.921Z",
+      "signature": "deFd4Prb8ThEHHI1bv0E6r4nozRYtrfLOz0QUYk/JZc6GDvyxagS2JHovs5LKFtcdJoNUwrh39kL8yy8ZwJcBA=="
+    },
+    {
+      "id": "ae8a5d45-44cb-483b-bc95-fc87d02222f2",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006007",
+      "date": "2026-09-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-09-29",
+      "timestamp": "2026-09-30T01:00:03.945Z",
+      "signature": "SjJaHahNGXrpM4Jtr9P5/f0eonGcCmB4eYnq3XCsDbIdQMLVRPM1bcejB5vbYVuhVyf1zWk5t8cpXKmwjdjoDw=="
+    }
+  ],
+  "day_hash": "99c79db1ff23a84bf0e94430e3bc2b4299aefcbb806111ae86826c8a85206237"
+}
