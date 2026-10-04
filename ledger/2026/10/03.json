@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-03",
+  "previous_hash": "eec3b1bac1d9211aae73914d821b9191ee31c12723e906c0ae518bb43e5c794f",
+  "entries_count": 4,
+  "merkle_root": "9a58838b73cc7071cfeb2ef08f01422aa67b7f4f891c497062ecbe431fc4b1bf",
+  "entries": [
+    {
+      "id": "150ccf83-1c12-46d4-8562-8162f2a4ff65",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00047083",
+      "date": "2026-10-03",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-03",
+      "timestamp": "2026-10-04T01:00:04.046Z",
+      "signature": "ehUII29JuHpB3rya/VPiJMcvdNS+Qu0n8+2XiussgtRt27uf2k3Dt5Bvk3sa1JceSIPTqnRuY1P1CgnXS1ViCQ=="
+    },
+    {
+      "id": "ebd6f9ed-2d98-4be3-a34e-ca6657e251d0",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00007847",
+      "date": "2026-10-03",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-03",
+      "timestamp": "2026-10-04T01:00:04.076Z",
+      "signature": "SsE2B6PdFkMPaPGfsv/hgK9AcrvMOcZRwq+Rk7MQYisWvG9iceO2C9fVP06bmuerPZzqSUnd7vgyNUBQTL9/CA=="
+    },
+    {
+      "id": "5ac24c91-8688-4088-a6f9-fc3c5bbc922b",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00007847",
+      "date": "2026-10-03",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-03",
+      "timestamp": "2026-10-04T01:00:04.100Z",
+      "signature": "binTsngqlz1Pl76ik+YqrAO/5RpijcswFAjFeesZW73Y9hv3V1ITBD3orgDG6wQWUSqZq2Uy7KRln9u+RJLKCQ=="
+    },
+    {
+      "id": "53204106-74cb-4152-862b-89af9781be75",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00015694",
+      "date": "2026-10-03",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-03",
+      "timestamp": "2026-10-04T01:00:04.133Z",
+      "signature": "ijGb78meCSNCG/eXIGByMaUffEZ8BZXezbQtYWAMefJcQ8INMNs70Cl4bjP4oYNuEOrXP9GPPsQTi1wCtdWCCA=="
+    }
+  ],
+  "day_hash": "0284076e82973afdfcea3293f51beb5bc2cf392e0ef91115f94402e14d629513"
+}
