@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-05",
+  "previous_hash": "8c3101e47532c970936d2e2e5dba6301e2f6e83d8d7ab078f78693566669941c",
+  "entries_count": 4,
+  "merkle_root": "ef54c4a7c6271ff3e45402702bc0d5164cfb261127930ca9c27af227a41975dc",
+  "entries": [
+    {
+      "id": "c924bff6-89c8-4125-a304-bb08aa92dacb",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00036889",
+      "date": "2026-10-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-05",
+      "timestamp": "2026-10-06T01:00:04.665Z",
+      "signature": "3G1xR1DE7UJeybHeFbwhf9kvhpkLRQP82p29Xg0rdPeaF3pmMK5NWy0ttHBa8OIE+Y1XGACIbfTwDwqUpoj+Bw=="
+    },
+    {
+      "id": "7ca87b32-146a-4253-805b-f99a840a1328",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006148",
+      "date": "2026-10-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-05",
+      "timestamp": "2026-10-06T01:00:04.697Z",
+      "signature": "VJ/HU8J+Ing+EwF1aouhJCyrxhs1FKwz0ueIjsCaGYEEIm4dfSvPeCeClkLLQCD0biXfpOgngO/0v4bJChlWDA=="
+    },
+    {
+      "id": "9803708f-cc3c-400f-ab4f-6ae9479a594f",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006148",
+      "date": "2026-10-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-05",
+      "timestamp": "2026-10-06T01:00:04.718Z",
+      "signature": "sPM2V2/LJA0uBkJDoq6VEZyyww/e3C8SVn8J9/4P5Qnxv7cuqeAXxlKitd7GOlRTXgw13qu3CjrT36fQ62yfDw=="
+    },
+    {
+      "id": "ecb37b24-de01-49c9-845b-f7f4fb5e7185",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00012296",
+      "date": "2026-10-05",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-05",
+      "timestamp": "2026-10-06T01:00:04.740Z",
+      "signature": "y82QXYdyTHhf5K+kC17x+fL33jzxGJc9mXuTp2rbl8P6gLEePIGjBa/dk6JeUrsIPZzSieRjzNAeM6TeZSLKBA=="
+    }
+  ],
+  "day_hash": "7d2ddf53cbe0086cc923f49be3a3119ebc1571cf364d9685fed69a7ee05b6d45"
+}
