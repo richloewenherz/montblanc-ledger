@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-06",
+  "previous_hash": "7d2ddf53cbe0086cc923f49be3a3119ebc1571cf364d9685fed69a7ee05b6d45",
+  "entries_count": 4,
+  "merkle_root": "d4b5fd13c8decd9c46604bc717b8dba80c499d737809061c29a5f9b9d1802303",
+  "entries": [
+    {
+      "id": "ee5bf696-c4e2-4c3c-b113-ccea6b69885c",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00033780",
+      "date": "2026-10-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-06",
+      "timestamp": "2026-10-07T01:00:03.930Z",
+      "signature": "Cg8no557/7FYAx6Yu6UfN8jRl09EZagmQlzDrQ6rAK8LZVzbujNlvS37S9yKlGULj0fzzfnlMTUiLtSNJRcTAQ=="
+    },
+    {
+      "id": "37b3ff14-37b4-4977-8604-2f4b194b500c",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00005630",
+      "date": "2026-10-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-06",
+      "timestamp": "2026-10-07T01:00:03.962Z",
+      "signature": "k1o6RYo4w6RY1scZhmxkY4xc0uWE8xx0G48UNgO+l4+dQTsPfMCIhBGAwH3q7nq/ZpZTWHUx8aYJSMd98bZSBQ=="
+    },
+    {
+      "id": "633df92d-2b80-4525-9f93-4285d1531a5c",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00011260",
+      "date": "2026-10-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-06",
+      "timestamp": "2026-10-07T01:00:03.992Z",
+      "signature": "Z7LvjJRdMIXPa2K5efLFXWyXFYc1GnIBv3VVo/B/1XztCstZq5zHvl0GMW6anCaEWKrOX/0rAT75ND9gC6e1CQ=="
+    },
+    {
+      "id": "f561f237-5313-43b1-83de-209a31dc8906",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00005630",
+      "date": "2026-10-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-06",
+      "timestamp": "2026-10-07T01:00:04.014Z",
+      "signature": "3YbbUHH+M1Iy7WGSeMGOs4mAVHI0EOrnhpXKVO9g2qrrivJsPshqniUWwfEYuiYDEEmDhOio/LCYp02kT86aCg=="
+    }
+  ],
+  "day_hash": "d2b8d573bb7a43e12f2ee99ff17792f0dfea3f5306fb5532e5edc4e1231d3440"
+}
