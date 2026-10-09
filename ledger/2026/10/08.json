@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-08",
+  "previous_hash": "94fb1903d4ceda33f375b1845d410ec0929ab4e2e3f032a9943ec571779c8798",
+  "entries_count": 4,
+  "merkle_root": "64ad5d93d88758d93037e3aef47f6260e6e31aa4c86c002bc6efc7e9783ed5ac",
+  "entries": [
+    {
+      "id": "6bd6cc6d-42ff-48bb-9c67-32ee29f790fe",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00030281",
+      "date": "2026-10-08",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-08",
+      "timestamp": "2026-10-09T01:00:04.707Z",
+      "signature": "ugTHeVaALMAdvnVbhjP0lespQcZWirJHPMQxJrnu7C1YhcDBdMaxc/SEiiVgDzWFwzhPSm3/5qlMEScH5B6kDQ=="
+    },
+    {
+      "id": "2c4615e0-af2b-4788-a981-2d909b06ab9e",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00010094",
+      "date": "2026-10-08",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-08",
+      "timestamp": "2026-10-09T01:00:04.733Z",
+      "signature": "vM/CZjPmaFo9iXFpfFw4sZg3cLXiP1QA8IP5UA4VVhuIZq1E3h4Y8O37uFPjG/Ma6+YTaYGysKeA8ZLhbNk1DQ=="
+    },
+    {
+      "id": "02109784-5328-44bf-bb31-6df443ce0a0b",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00005047",
+      "date": "2026-10-08",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-08",
+      "timestamp": "2026-10-09T01:00:04.754Z",
+      "signature": "5Vb00zOcHERijH8nTraCAH2NPRgCAROrZj50vvwQE6cbDBJo0vQgad3VfU57tjTvSuHG63sMKfvAhiN32TqpAg=="
+    },
+    {
+      "id": "93435b79-4955-4f92-afab-014608b96501",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00005047",
+      "date": "2026-10-08",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-08",
+      "timestamp": "2026-10-09T01:00:04.775Z",
+      "signature": "KzzyMfQXiy9Jp5J5gDYqvTupdblOiE57PAgdAi9zKVHVJoNyToQT6OBaTydnUJFaETNlIXMpiLlgAq/bSO4VCw=="
+    }
+  ],
+  "day_hash": "46045a1c680191ace1810d1b96b68e9b3b1b05a7ac04bef31e411d5aa7717091"
+}
