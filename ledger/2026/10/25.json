@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-25",
+  "previous_hash": "dd50c424a22ba657dfbc000e85654d177f814e1fc485358f9749f153a97dd50f",
+  "entries_count": 4,
+  "merkle_root": "c4c719f78512b219e79454fdb66aab1aa4116d905afe1599411802f29d29784f",
+  "entries": [
+    {
+      "id": "f0efbdc0-f97a-4128-978b-b1cc529660a4",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00053268",
+      "date": "2026-10-25",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-25",
+      "timestamp": "2026-10-26T02:00:03.126Z",
+      "signature": "ha9TFIyzK683hQGHALRMAYZVQYUGNL8BASzfOw/QvlPkybMHZriz9HPydQ2xUtodFyd1cvUAXi0tf0rfnwSYBw=="
+    },
+    {
+      "id": "c744d15e-c17b-4f3d-a547-89869e37a378",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00017756",
+      "date": "2026-10-25",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-25",
+      "timestamp": "2026-10-26T02:00:03.163Z",
+      "signature": "i3AwpKk+SrUFyUtbnnY0ofvwobU0zPXnHO4EJeUdxDJVJbg1eO9ThQwyF69D7BwfEX/7O5K23zjB/lM/ZcBrBg=="
+    },
+    {
+      "id": "3812762f-b756-46f4-bcdc-7df6ae323817",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00008878",
+      "date": "2026-10-25",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-25",
+      "timestamp": "2026-10-26T02:00:03.194Z",
+      "signature": "7Pfb0NkqyzmWU0P856Za7t2E04BpN/i2X+qMec/sgHf2LYeaMpdLPHnu6OAovu5tGFAfvqDRO0dFpHLbXNLeAw=="
+    },
+    {
+      "id": "b939466f-ce85-45ff-9f61-b70896e6a515",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00008878",
+      "date": "2026-10-25",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-25",
+      "timestamp": "2026-10-26T02:00:03.223Z",
+      "signature": "MvVGka5QMzP7DG8t4oMxUf2v/fVqN5yCuVj7KvC+agJbw2u0lHE2aL9mtwJv/0E+C9G6esrLiO1euKhYAt5ODg=="
+    }
+  ],
+  "day_hash": "deffda215243ae4d1d19678d974da361bfb32781036b64b08eaf0f49bb16541d"
+}
