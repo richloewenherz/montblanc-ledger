@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-29",
+  "previous_hash": "1e5cee034b8e8a74d952f61e8df8bf07713a6e8ad461d834766c76a5cdd09a1f",
+  "entries_count": 4,
+  "merkle_root": "c6adf6bb405b204af7e9ab2a52092aa1d40e6ae4e32b8b54b2b6040c45f31e95",
+  "entries": [
+    {
+      "id": "fff17686-e08f-47f8-8941-520c519a19b8",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00031517",
+      "date": "2026-10-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-29",
+      "timestamp": "2026-10-30T02:00:03.714Z",
+      "signature": "ixf8rUOP3H+0PPcbTz8072Myt5iDDNTCsFgR+579bw0iHO3bpGGYNbTegfaY9fH2D7PfW9BIqakxWqRdLfpCBw=="
+    },
+    {
+      "id": "68681859-24d5-41ca-9b3e-7c2e6a745fa4",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00005253",
+      "date": "2026-10-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-29",
+      "timestamp": "2026-10-30T02:00:03.860Z",
+      "signature": "VWigcR55hkQ65hTEJrUyXQSAGBVdnIB/59AJumQmYAD+zRgQMMhsqv8IDQauUTvGzy6TibBCVRSDISkDhz6eAQ=="
+    },
+    {
+      "id": "28edef36-5c16-44f0-967a-5bb743b96117",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00005253",
+      "date": "2026-10-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-29",
+      "timestamp": "2026-10-30T02:00:03.887Z",
+      "signature": "KbyIA2pQ4uWNYAnw7dVYSY0oNYZm1+97sqa44fRkIgYYJTfXjBILy9TWnI4jqxmB1ocXQ0prwx8SfFzta0iPBA=="
+    },
+    {
+      "id": "ddfe6923-5d49-4a79-9378-5a27f3ef56e7",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00010506",
+      "date": "2026-10-29",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-10-29",
+      "timestamp": "2026-10-30T02:00:03.908Z",
+      "signature": "+5shFeFXigr6wfQNQXbI5U4MotyiZCTHB4mg8bOyVCk5I9K0uPHmfgSqUc/SHfxjgO6OlI+gS05n/Izvay/8CA=="
+    }
+  ],
+  "day_hash": "446609ef6fb7c300ad8436bea9644f5acc52ba6f271dd15e970337ce5964456a"
+}
