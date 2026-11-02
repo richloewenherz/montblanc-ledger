@@ -1,14 +1,14 @@
 {
   "balances": {
-    "mbc_845c0b9c056fdcdb": "0.05388775",
-    "mbc_8fde24113463b465": "0.05388775",
-    "mbc_9b28d5660930cec5": "0.10777524",
+    "mbc_845c0b9c056fdcdb": "0.05397148",
+    "mbc_8fde24113463b465": "0.05397148",
+    "mbc_9b28d5660930cec5": "0.10794270",
     "mbc_aa821f4012a32c44": "0.29998840",
-    "mbc_f4527e404334215d": "0.32332563"
+    "mbc_f4527e404334215d": "0.32382801"
   },
-  "computed_at": "2026-11-01T02:00:05.887Z",
-  "hash": "3c6cb74e7fa91756efd1b7a8333ffd3fbe104f0f7002e7fd5f9ffbcd285d458e",
-  "signature": "o7D20SA6VH9T6PwiqnPJWG/ox8zRdLxWH+mhCxjb7rtgeebd3hvWOvnoNuMO1rCs/XCUkxmoxheiQmjwUbB0BA==",
-  "last_date": "2026-10-31",
-  "chain_tip_hash": "eafcdc69e0508359a230472a4b92c0646a4ad1fcc15a2f83acf437fba3b511b3"
+  "computed_at": "2026-11-02T02:00:04.721Z",
+  "hash": "8746e8e261be7f4945910a173ac7295a4bb50bc3524fe02b55e7275b60a3dcaf",
+  "signature": "WliVAepQccAneTIHxEKoMMFUjKcOQ0db+LcuyK/HsnQJXdSn+zlLysq1YO8l8zHRe3e8Q062v+RFWXh11fkMDw==",
+  "last_date": "2026-11-01",
+  "chain_tip_hash": "044b0a9225a6ae8d7bed3a072626d96d03463127ce1a2ea9f959670830c89a62"
 }

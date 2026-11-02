@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-01",
+  "previous_hash": "eafcdc69e0508359a230472a4b92c0646a4ad1fcc15a2f83acf437fba3b511b3",
+  "entries_count": 4,
+  "merkle_root": "b6ab8092c847224f0172618e0500209316ebf8347756fb23f171150baea93a44",
+  "entries": [
+    {
+      "id": "f7ec3529-fdd2-4336-b264-d90f608d141a",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00050238",
+      "date": "2026-11-01",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-01",
+      "timestamp": "2026-11-02T02:00:04.629Z",
+      "signature": "nTCoMudhKywwLPnKJbrAloEO7CuXsnlzXByYy1F1bH8q+io0YjTfsLToeJEnPYS9LwYFhc2sHabzBlrxr9+uDw=="
+    },
+    {
+      "id": "8e62c0d6-e96e-44b8-bdb0-4c6bbe250ad4",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00008373",
+      "date": "2026-11-01",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-01",
+      "timestamp": "2026-11-02T02:00:04.656Z",
+      "signature": "IEqKtC0Y7pbT2jh/iG9+NNXSrl51Pgid7INxuTsL7FmEfn/fAaxNTMw5MAFNtpjV4r2cH9z2/8P0EOTu7tQtBw=="
+    },
+    {
+      "id": "7d168ea9-025e-42ec-a827-d358a80891a5",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00016746",
+      "date": "2026-11-01",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-01",
+      "timestamp": "2026-11-02T02:00:04.678Z",
+      "signature": "dDxXQQfILdvcBcPwurUEnSBJFxfs4JKglGbMmiwr7WHCINcy9YdtF+1M/KHNya2tf0vedJ+WsBIsymeL0lcACA=="
+    },
+    {
+      "id": "1163c828-a303-4212-a402-1b2e21628172",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00008373",
+      "date": "2026-11-01",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-01",
+      "timestamp": "2026-11-02T02:00:04.700Z",
+      "signature": "vQkKT/N4ACHuBMv3oFhnanuraTRHy/TGt3ynvo9ndhy/zVaYdK7nb5hd8E/Ji0kx/s7qsufvhDpRQNs2CwVsDQ=="
+    }
+  ],
+  "day_hash": "044b0a9225a6ae8d7bed3a072626d96d03463127ce1a2ea9f959670830c89a62"
+}
