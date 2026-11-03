@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-02",
+  "previous_hash": "044b0a9225a6ae8d7bed3a072626d96d03463127ce1a2ea9f959670830c89a62",
+  "entries_count": 4,
+  "merkle_root": "ec56a96db2e9b22707a0597ccd5f5d783763cd29551f6a780e39e23d6c57706d",
+  "entries": [
+    {
+      "id": "ec8d6bbc-3a23-43e8-b117-92cfca1294eb",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00037997",
+      "date": "2026-11-02",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-02",
+      "timestamp": "2026-11-03T02:00:03.055Z",
+      "signature": "jlP/01J9LmiCFniMTMWuLobc1R3XSskVLrn4mnaY/emAaPI+ydSCad2KyxfI6McyXvs5qO2zdevImV+mCV0bDA=="
+    },
+    {
+      "id": "770d950c-0f33-4f39-bb25-633a3af5ff60",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006333",
+      "date": "2026-11-02",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-02",
+      "timestamp": "2026-11-03T02:00:03.084Z",
+      "signature": "8u1NbnhQRaXcMj9T9LYlhEawsCumkrTo1fcluTNDa0nfnB/4EvZlgqwC/0zWiT963jHja++NRuj1pAnOoIUoBQ=="
+    },
+    {
+      "id": "331d4f60-b2b5-4675-96b5-a6aaed79fb9e",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006333",
+      "date": "2026-11-02",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-02",
+      "timestamp": "2026-11-03T02:00:03.107Z",
+      "signature": "8SziB1eAEcTNqYpFTlDNxVvZVi/kgxLeBCjRmkiPR5WjOx64q2Z8wDvZZUJ+G7hS46s7YSttEzS68w/sVA4UAQ=="
+    },
+    {
+      "id": "a7791d6e-6601-4631-90b3-4973be95816a",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00012666",
+      "date": "2026-11-02",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-02",
+      "timestamp": "2026-11-03T02:00:03.130Z",
+      "signature": "1qm7Yn5Ek0JamrubkQlR0+A9/znYif5SpOXRqA7fge1WRp6CaOPRl0LOeyetdNt26ENqouWAX6qchGTDSD1iCA=="
+    }
+  ],
+  "day_hash": "3c093105bd5b1c999af7c6c0cd62009f5fca0293ef3e4aac8b968914a2ea6607"
+}
