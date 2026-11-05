@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-04",
+  "previous_hash": "948e40326040c4bc04b8107b850cf550be8a79177606691c4ad202f06563cbca",
+  "entries_count": 4,
+  "merkle_root": "f86b80d0d894feabbfd6e5687bdc947f7b0f9f6e3b7642113080182cafe5169e",
+  "entries": [
+    {
+      "id": "411dd5b3-b0de-496f-bfdf-b1d8a4025643",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00047149",
+      "date": "2026-11-04",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-04",
+      "timestamp": "2026-11-05T02:00:03.121Z",
+      "signature": "bZzK78/fpAmcfCCrI0uNkWpxxonph0MkiGrrSXKE/2JrgpAZX+64S3RagxV0mgXw5UGblmElzELelE8pJZmPBw=="
+    },
+    {
+      "id": "5905781d-b93c-4a3d-9b17-e7b7c2a4da5c",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00007858",
+      "date": "2026-11-04",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-04",
+      "timestamp": "2026-11-05T02:00:03.152Z",
+      "signature": "tgKpOMxEO04daDEBdNWeGT4WbnR8VyKREUQDBb5ivWh+v/UC4T6hDZpT10qCEd2vvLvKXFupFrJZZr1m2G3DCg=="
+    },
+    {
+      "id": "7a28877d-3062-48d2-8488-b815667e2bc6",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00007858",
+      "date": "2026-11-04",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-04",
+      "timestamp": "2026-11-05T02:00:03.174Z",
+      "signature": "P+Z3HHWvoJtZ877S7RNsYLlJ+rc5aDFkl5Vc1PTG6uK148t3wvKLlCeI4PHq8Uc8NQqJO6do1LkktGVwXe8GAw=="
+    },
+    {
+      "id": "acc46f2b-dba3-458d-8330-2c07fa208b0f",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00015716",
+      "date": "2026-11-04",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-04",
+      "timestamp": "2026-11-05T02:00:03.196Z",
+      "signature": "P6iC9PwBHBAedCviCV8H2a7DLsoh/J7v0d0P8iyndjLFTGSEONUKBjDhPHwz5JpqKsMwHN1h6Ad55q4ncs++DA=="
+    }
+  ],
+  "day_hash": "ccd09d1bfa2cab94be951f590520ede3733b002cf8a22cdc358d700e05fb9ce0"
+}
