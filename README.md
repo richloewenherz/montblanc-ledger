@@ -1,15 +1,15 @@
-# Montblanc Capital — Public Mining Ledger
+# Public Mining Ledger
 
 **Cryptographically signed. Pseudonymous. Tamper-proof. Auditable.**
 
-This repository contains the complete, verifiable record of all Bitcoin mining earnings distributed by [Montblanc Capital](https://montblanc-capital.com).
+This repository contains the complete, verifiable record of all Bitcoin mining earnings credited by the operator of this ledger. The operator is identified on its verification page: https://mining.ruhl.ae/en/verify
 
 ## How It Works
 
-Every day, mining rewards are distributed to participants and recorded here as **signed ledger entries**. Each entry is:
+Every day, mining rewards are credited to participants and recorded here as **signed ledger entries**. Each entry is:
 
-- **Signed** with Ed25519 — proving it was issued by Montblanc Capital and hasn't been altered
-- **Pseudonymous** — identified only by wallet IDs (`mbc_...`), never by name or email
+- **Signed** with Ed25519 — proving it was issued by the holder of the key in `pubkey.pem` and hasn't been altered
+- **Pseudonymous** — identified only by wallet IDs (`mbc_…` or `w_…`), never by name or email
 - **Append-only** — historical entries are never modified or deleted
 - **Publicly verifiable** — anyone can audit the math
 
@@ -28,6 +28,8 @@ pubkey.pem                ← Public key for signature verification
 schema/
 └── entry.schema.json     ← JSON schema for entry format
 ```
+
+Wallet IDs are opaque. Older IDs carry the prefix `mbc_`, newer ones `w_`; the prefix has no meaning.
 
 ## Verifying an Entry
 
@@ -51,7 +53,7 @@ console.log(valid ? "✅ Valid" : "❌ Tampered");
 
 ## Privacy
 
-Wallet IDs are **randomly generated** and have no mathematical relationship to user identities. The mapping between wallet IDs and real users exists only in Montblanc Capital's private database — never in this repository.
+Wallet IDs are **randomly generated** and have no mathematical relationship to user identities. The mapping between wallet IDs and real users exists only in the operator's private database — never in this repository.
 
 This follows the same principle as Bitcoin: **transparent transactions, pseudonymous participants.**
 
@@ -65,4 +67,4 @@ This follows the same principle as Bitcoin: **transparent transactions, pseudony
 
 *Don't trust us. Verify.*
 
-© Montblanc Capital · [montblanc-capital.com](https://montblanc-capital.com)
+© the operator · https://mining.ruhl.ae/en/verify
