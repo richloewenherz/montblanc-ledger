@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Montblanc Ledger Entry",
-  "description": "A single signed earnings record in the Montblanc Capital ledger",
+  "title": "Ledger Entry",
+  "description": "A single signed earnings record in the public mining ledger",
   "type": "object",
   "required": ["id", "wallet_id", "type", "amount_btc", "date", "source", "timestamp", "signature"],
   "properties": {
@@ -12,8 +12,8 @@
     },
     "wallet_id": {
       "type": "string",
-      "pattern": "^mbc_[a-f0-9]{16}$",
-      "description": "Pseudonymous wallet identifier (no PII)"
+      "pattern": "^(mbc_|w_)[a-f0-9]{16}$",
+      "description": "Pseudonymous wallet identifier (no PII); the prefix has no meaning"
     },
     "type": {
       "type": "string",
