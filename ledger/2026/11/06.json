@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-06",
+  "previous_hash": "f1dbd644f929aad3a9219b87a1dc05cfa02bcbef7313fea416416ad75236a72e",
+  "entries_count": 4,
+  "merkle_root": "693470bc077ac0ebda1caf48be8595bba9c1304cf2366568e714b084e73f2116",
+  "entries": [
+    {
+      "id": "16419ef4-d3cd-4fcf-8d1c-eb764b5e697a",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00032147",
+      "date": "2026-11-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-06",
+      "timestamp": "2026-11-07T02:00:04.047Z",
+      "signature": "xKF6gavAtOvb8ZX0jbvskkut1KeD7jBtch12nmggpkMqtZw16zaYTtafpJLdc1I8IbZ2r6/loFoYL50yafQ8AQ=="
+    },
+    {
+      "id": "e9b6b41f-91b2-4c40-b4d7-5f889fd14d9d",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00005358",
+      "date": "2026-11-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-06",
+      "timestamp": "2026-11-07T02:00:04.073Z",
+      "signature": "/ePCXyYtoXuVE4EnOS9jA2+xpAZhPAvk4q//JlvY+AJe6sAVZDh0o9ft0QV2K9fJYc4ouNfKb+PDcMhTqOk9DA=="
+    },
+    {
+      "id": "f6921578-5680-4e60-b448-ca1fbf7d90d1",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00005358",
+      "date": "2026-11-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-06",
+      "timestamp": "2026-11-07T02:00:04.093Z",
+      "signature": "O5y/2HZyl3ID3G5Qs5Pd22RRhk4t++6yOmELPFzT6i7CRoM+TuaKnCdxP6Ng8o+jG6HI/upv8FAN86qRi/jpDQ=="
+    },
+    {
+      "id": "e896b08c-c0db-48be-b355-4414017ac5b9",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00010716",
+      "date": "2026-11-06",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-06",
+      "timestamp": "2026-11-07T02:00:04.117Z",
+      "signature": "NHiu1OX6a7EizaJW0kOu1LCVMX2rop3N/8HgZXMAIRBdV4ZQuC7dHxVLHuBIgUKZvkMenkAEuqyGJLHyCJQ3Dg=="
+    }
+  ],
+  "day_hash": "7accc10b832d129ba5d359b267790aea01fb2751de9100e1bd8594c73bc7f726"
+}
