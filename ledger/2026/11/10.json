@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-10",
+  "previous_hash": "6860c507e43144326ef6d2939304cadeda738e2fd09d79ed45ece76ed5b3029c",
+  "entries_count": 4,
+  "merkle_root": "638322d255123b3f42670478b2faea2248b9f7f6a8fdb10c343194df390c9ea4",
+  "entries": [
+    {
+      "id": "23baff07-bb70-498f-b4e8-a52d8cc10a67",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00034850",
+      "date": "2026-11-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-10",
+      "timestamp": "2026-11-11T02:00:02.956Z",
+      "signature": "YDUlCwPMpFlh4r8tYI/XP/C3EcZEfj+ckPFl06AmkzzCdKGwSZJ9+Bj2rIRp4uUr7UeKdVVMrEyA37qqJZIcCw=="
+    },
+    {
+      "id": "bc8ed30f-771a-4bff-84fc-24f4771fb2cc",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00005808",
+      "date": "2026-11-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-10",
+      "timestamp": "2026-11-11T02:00:02.986Z",
+      "signature": "3tLXXoy7csrxHsazuISxcNwwWNshJQi+WgOYXijBAzz68QsNS0P3AWunjy6zxLzo7L7rDrITer2XgaCYmelZDQ=="
+    },
+    {
+      "id": "a68ed0d5-0b2e-4a37-a0ed-1b18e8dfb4da",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00011617",
+      "date": "2026-11-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-10",
+      "timestamp": "2026-11-11T02:00:03.013Z",
+      "signature": "aX94/K5OntS7ArwnSKiVJsWzsaSt37oEjVA4iqe2m8YphxklJhDc8U4i7b6sGjYpdxx9aPylN3fWQnWqrSZ1DA=="
+    },
+    {
+      "id": "3277ab04-1a33-41a9-ac7f-8050cba20020",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00005808",
+      "date": "2026-11-10",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-10",
+      "timestamp": "2026-11-11T02:00:03.036Z",
+      "signature": "hhVgbtbBr+6CEAJX9iuNDtW9TUd7D8MWm0Kb76H7Ey3JAKMj95Ika6IDbA39oC0JxS7yX9HsQiLUcBRidWSiDA=="
+    }
+  ],
+  "day_hash": "fd1a3de4565cdefc0af440ae3f3d787e715b0e49cb6029c9000336a7a7efc0d0"
+}
