@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-12",
+  "previous_hash": "d7e63f77508b7c2757a9bfa103ffe9f75e481e14ab2d8b7d6b34eead254dfed1",
+  "entries_count": 4,
+  "merkle_root": "5dbd8fb7e54ad42d2bafa74154d9d3e8f5d5340fc3e4d741157b2b80d8cd9b4d",
+  "entries": [
+    {
+      "id": "7a89458b-fd29-4659-81a3-4570f88a8ea0",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00035127",
+      "date": "2026-11-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-12",
+      "timestamp": "2026-11-13T02:00:02.291Z",
+      "signature": "BfawXxTNIFLAqTTERh3nGgS4hDt1Fpd3pnLdOUwDJwqGfsReqR7R8riwA107E2cPKEZbaQT9SNnMCPeA9MLyBA=="
+    },
+    {
+      "id": "5abb1a1b-02c3-494a-aadd-6fdc951c8d63",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00005854",
+      "date": "2026-11-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-12",
+      "timestamp": "2026-11-13T02:00:02.322Z",
+      "signature": "J5JaOxierA0EqUjKMV2sDsNgAuBQXDqE+UTjuQoMx5lCeCftVcuknrQv2qp9NNL4o3D4I40PMdH+djLWwnZtDg=="
+    },
+    {
+      "id": "665cc429-4fa1-4ce8-b96a-90247b2990cc",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00005854",
+      "date": "2026-11-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-12",
+      "timestamp": "2026-11-13T02:00:02.344Z",
+      "signature": "MyJRMbJxCcbU2YvUkvAbNxUykRQBYA35GJ71Jng1iMkItyroW4B8JqUbGbIrNxl0YdGg9LB89PdMS5T0VFlrAw=="
+    },
+    {
+      "id": "b025d26a-12ac-4e8d-97a1-3788991ba47e",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00011709",
+      "date": "2026-11-12",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-12",
+      "timestamp": "2026-11-13T02:00:02.365Z",
+      "signature": "9WyblyCL8WWlddwPT6lm+NoFUoX910Gvveq9CMzl8ZbnILql0Jyx/5I3x9pXwkUNT5oWgctt0FNmEveHzv80Ag=="
+    }
+  ],
+  "day_hash": "1389da42bccadfd1163a7b7a1e696eb983dc9f7d6b07bb8baa794591eb5a1d92"
+}
