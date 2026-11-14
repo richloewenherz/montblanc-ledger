@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-13",
+  "previous_hash": "1389da42bccadfd1163a7b7a1e696eb983dc9f7d6b07bb8baa794591eb5a1d92",
+  "entries_count": 4,
+  "merkle_root": "b1513afe4f1b7daea8a7e497d1edc06b1d03c7f6985779610fc80aea3917b3b5",
+  "entries": [
+    {
+      "id": "b2bb2ed0-b51d-4cd3-8719-a1d9d42bcd3d",
+      "wallet_id": "mbc_f4527e404334215d",
+      "type": "credit",
+      "amount_btc": "0.00037620",
+      "date": "2026-11-13",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-13",
+      "timestamp": "2026-11-14T02:00:02.821Z",
+      "signature": "oqcE9c7EegPMTnkWLbBAlQOe5jnyUKhKIvuTPJoZGPicfRIm+fEcgEDgRvHF4g3q+44Q8mcsUvptGmSMW1YhBQ=="
+    },
+    {
+      "id": "3948e8c3-d6b8-4625-a762-df2d140d9f05",
+      "wallet_id": "mbc_845c0b9c056fdcdb",
+      "type": "credit",
+      "amount_btc": "0.00006270",
+      "date": "2026-11-13",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-13",
+      "timestamp": "2026-11-14T02:00:02.860Z",
+      "signature": "Xoo9IvCZ9gYflb1Y7JB/oPlXAOfvTXZ7r61vyO1HaORryuPmO8RmcwFiJB1o2pG2fBZLfRiAldgR13gbIgPoDg=="
+    },
+    {
+      "id": "5e09c8ee-dddc-4eab-8cce-d6cb3d9a48aa",
+      "wallet_id": "mbc_9b28d5660930cec5",
+      "type": "credit",
+      "amount_btc": "0.00012540",
+      "date": "2026-11-13",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-13",
+      "timestamp": "2026-11-14T02:00:02.883Z",
+      "signature": "BV+hcpYY549KQtCizekjERTiMBOSBxPVdp84yX3XtoRQ9mOtx/xbk9Z6+zQHT2wLeINKX813ae2cbNNwl9sfAA=="
+    },
+    {
+      "id": "9384432f-2021-440b-9648-59756a608ad6",
+      "wallet_id": "mbc_8fde24113463b465",
+      "type": "credit",
+      "amount_btc": "0.00006270",
+      "date": "2026-11-13",
+      "source": "daily_mining_earnings",
+      "ref": "daily_mining_earnings:2026-11-13",
+      "timestamp": "2026-11-14T02:00:02.908Z",
+      "signature": "TeHrTdW0/RWSjqdgVJTg2vfPgli7WL0q3ZOWXvmqJiRU0eE7xk6FtjmPs5apOQc9U5nAdiQ81EiUUjIIyd2SBA=="
+    }
+  ],
+  "day_hash": "121eafc4aa2e7d12706b9cf7cfb0d695933c5eb8c70594454fd8f1dfc0cf6c5f"
+}
